@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>icons/Edit.png</file>
+        <file>icons/Find.png</file>
+        <file>icons/Maps.png</file>
+        <file>icons/New.png</file>
+        <file>icons/Open.png</file>
+        <file>icons/Open2.png</file>
+        <file>icons/Printer.png</file>
+        <file>icons/Ruler.png</file>
+        <file>icons/Save.png</file>
+        <file>icons/SaveAs.png</file>
+        <file>icons/Search.png</file>
+        <file>icons/Copy.png</file>
+        <file>icons/Cut.png</file>
+        <file>icons/Paste.png</file>
+        <file>icons/Redo.png</file>
+        <file>icons/Undo.png</file>
+        <file>icons/PbNote.png</file>
+    </qresource>
+</RCC>
